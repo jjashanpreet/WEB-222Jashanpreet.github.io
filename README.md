@@ -12,6 +12,7 @@ The website has been hosted using GitHub pages itself and you can access it thro
 https://jjashanpreet.github.io/WEB-222Jashanpreet.github.io/
 
 # Walkthrough Video Link
+https://www.youtube.com/watch?v=H4UkZ5qkefY
 
 # Github Repository Link
 https://github.com/jjashanpreet/WEB-222Jashanpreet.github.io
