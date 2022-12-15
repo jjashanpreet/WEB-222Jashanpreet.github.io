@@ -1,4 +1,4 @@
-# WEB222-FA (Final Assessment)
+# WEB222 (Final Assessment)
 I have built a portfolio website for my WEB222 Final Project as a second semester student at Seneca College.
 
 # Technologies Used
@@ -8,6 +8,7 @@ I have built a portfolio website for my WEB222 Final Project as a second semeste
 
 # Web Site Link
 The website has been hosted using GitHub pages itself and you can access it through the link below
+
 https://jjashanpreet.github.io/WEB-222Jashanpreet.github.io/
 
 # Walkthrough Video Link
