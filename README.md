@@ -9,6 +9,6 @@ I have built a portfolio website for my WEB222 Final Project as a second semeste
 # Web Site Link
 The website has been hosted using GitHub pages itself and you can access it through the link below
 
-https://github.com/jjashanpreet/WEB222-FA
+https://github.com/jjashanpreet/WEB-222Jashanpreet.github.io
 
 # Walkthrough Video Link
