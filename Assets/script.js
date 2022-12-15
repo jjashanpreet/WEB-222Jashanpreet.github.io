@@ -51,7 +51,7 @@ SchoolRadioButton.addEventListener('click', function() {
     }
 });
 
-// Function to generate the pay rate input field
+// Function to generate the topic input field
 function generateTopicInput() {
     let break1 = document.createElement('br');
     break1.id = 'b1';
@@ -80,7 +80,7 @@ function generateTopicInput() {
     document.querySelector(".radio-btns").appendChild(node2);
 }
 
-// Function to delete the pay rate input field
+// Function to delete the topic input field
 function deleteTopicInput() {
     let label = document.getElementById('topic-label');
     let input = document.getElementById('topic-input');
